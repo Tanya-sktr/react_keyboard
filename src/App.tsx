@@ -1,4 +1,4 @@
-import React, { KeyboardEvent } from 'react';
+import React from 'react';
 
 type State = {
   pressedKey: string | null;
